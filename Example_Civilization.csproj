@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+      <OutputType>Exe</OutputType>
+      <TargetFramework>net5.0</TargetFramework> <!-- Cambia a tu versión de .NET -->
+    </PropertyGroup>
+  
+    <ItemGroup>
+      <Compile Include="**\*.cs" /> <!-- Incluye todos los archivos .cs -->
+    </ItemGroup>
+  
+    <ItemGroup>
+      <Reference Include="0Harmony">
+        <HintPath>..\..\..\..\..\..\Users\tomas\Downloads\0Harmony.dll</HintPath>
+      </Reference>
+      <Reference Include="Assembly-CSharp">
+        <HintPath>Assemblies\Assembly-CSharp.dll</HintPath>
+      </Reference>
+      <Reference Include="Beebyte-Deobfuscator">
+        <HintPath>..\..\..\..\..\..\Users\tomas\Downloads\Beebyte-Deobfuscator.dll</HintPath>
+      </Reference>
+      <Reference Include="DOTween">
+        <HintPath>..\..\..\..\..\..\Users\tomas\Downloads\DOTween.dll</HintPath>
+      </Reference>
+      <Reference Include="NeoModLoader">
+        <HintPath>Assemblies\NeoModLoader.dll</HintPath>
+      </Reference>
+      <Reference Include="Newtonsoft.Json">
+        <HintPath>..\..\..\..\..\..\Users\tomas\Downloads\Newtonsoft.Json.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine">
+        <HintPath>..\..\worldbox_Data\Managed\UnityEngine.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine.CoreModule">
+        <HintPath>..\..\worldbox_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine.TextCoreModule">
+        <HintPath>..\..\worldbox_Data\Managed\UnityEngine.TextCoreModule.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine.UI">
+        <HintPath>..\..\worldbox_Data\Managed\UnityEngine.UI.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+  
+  </Project>
+  
