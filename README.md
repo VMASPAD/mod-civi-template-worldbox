@@ -2,7 +2,7 @@
 
 Bienvenidos a al tutorial de como crear tu propia civilizacion para worldbox, la idea de este turorial es de que puedas descargar el ejemplo, y modificar tanto eliminar como agregar atributos, civilizaciones, sprites, etc. Es un tutorial basico y limitado ya que la informacion que se recopilo para hacer este tutorial fue limitada, corta o no oficial por parte del creador, NO ME HAGO RESPONSABLE DEL MAL USO QUE LE DEN.
 
-# ES RECOMENDABLE VER EL [VIDEO]()
+# ES RECOMENDABLE VER EL [VIDEO](https://youtu.be/5LfrDDBBsqg)
 
 ### Que hacer?
 
